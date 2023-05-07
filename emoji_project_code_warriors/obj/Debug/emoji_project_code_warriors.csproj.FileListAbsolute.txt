@@ -1,0 +1,24 @@
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.csproj.AssemblyReference.cache
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.csproj.SuggestedBindingRedirects.cache
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.Form1.resources
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.Form2.resources
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.Properties.Resources.resources
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.csproj.GenerateResource.cache
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.csproj.CoreCompileInputs.cache
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\bin\Debug\emoji_project_code_warriors.exe.config
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\bin\Debug\emoji_project_code_warriors.exe
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\bin\Debug\emoji_project_code_warriors.pdb
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.exe
+C:\Users\97156\source\repos\project 1\project 1\programming\project work\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.pdb
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\bin\Debug\emoji_project_code_warriors.exe.config
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\bin\Debug\emoji_project_code_warriors.exe
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\bin\Debug\emoji_project_code_warriors.pdb
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.csproj.AssemblyReference.cache
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.Form1.resources
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.Form2.resources
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.Properties.Resources.resources
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.csproj.GenerateResource.cache
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.csproj.CoreCompileInputs.cache
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.exe
+C:\Users\gundu\OneDrive\Masaüstü\emoji_project_code_warriors\emoji_project_code_warriors\obj\Debug\emoji_project_code_warriors.pdb
